@@ -1,15 +1,15 @@
-# Su_Profile
+# 🌱 Su_Profile
 
 ### 👩‍🚀 나만의 프로필 링크 만들기 
 > ##### spartacodingclub
 
 ### Stack 
 
-#### HTML, CSS
+         HTML, CSS
 
 ---
 
-#### 1. 프로필 만들기 
+### 1. 프로필 만들기 
 
 ```HTML
 <body>
@@ -51,7 +51,7 @@
 ---
 
 
-#### 2. 링크 만들기 
+### 2. 링크 만들기 
 
 ```html
 <body>
@@ -134,10 +134,13 @@
 ```
 
 ---
+ 
+ 
+ 
 
+### 3. [Su_Profile](https://oiosu.github.io/Su_Profile/)
 
-#### 3. [Su_Profile](https://oiosu.github.io/Su_Profile/)
-
+      
 
 ![image](https://user-images.githubusercontent.com/99783474/195984567-07ffbbda-1c62-46d4-a618-f1c14fde9a55.png)
 
